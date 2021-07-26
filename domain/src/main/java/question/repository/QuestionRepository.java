@@ -1,4 +1,4 @@
-package com.example.DemoCleanArchitecture.question.domain.repository;
+package question.repository;
 
-public class QuestionRepository {
+public interface QuestionRepository {
 }

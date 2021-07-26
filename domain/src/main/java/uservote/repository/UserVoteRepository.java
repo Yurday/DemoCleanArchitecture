@@ -1,4 +1,4 @@
-package com.example.DemoCleanArchitecture.uservote.domain.repository;
+package uservote.repository;
 
-public class UserVoteRepository {
+public interface UserVoteRepository {
 }

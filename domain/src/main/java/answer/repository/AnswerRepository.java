@@ -1,4 +1,4 @@
 package answer.repository;
 
-public class AnswerRepository {
+public interface AnswerRepository {
 }
